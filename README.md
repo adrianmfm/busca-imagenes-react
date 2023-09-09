@@ -44,6 +44,4 @@ Para aprender React, consulta la [documentación de React](https://reactjs.org/)
 
 Si encuentras problemas durante el proceso de construcción, consulta la [guía de solución de problemas de Create React App](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify).
 
----
 
-¡Espero que esto sea útil para tu proyecto! Si hay algo más con lo que pueda ayudarte, no dudes en decírmelo.
